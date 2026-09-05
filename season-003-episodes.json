@@ -1,0 +1,194 @@
+[
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 36",
+        "seasonEpNum": "Season 2 - Episode 1",
+        "title": "Stark Raving Dad",
+        "file": "video/episodes/Season 03/The Simpsons - S03E01.mp4",
+        "poster": "images/poster-s3-e1.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 37",
+        "seasonEpNum": "Season 3 - Episode 2",
+        "title": "Mr. Lisa Goes to Washington",
+        "file": "video/episodes/Season 03/The Simpsons - S03E02.mp4",
+        "poster": "images/poster-s3-e2.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 38",
+        "seasonEpNum": "Season 3 - Episode 3",
+        "title": "When Flanders Failed",
+        "file": "video/episodes/Season 03/The Simpsons - S03E03.mp4",
+        "poster": "images/poster-s3-e3.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 39",
+        "seasonEpNum": "Season 3 - Episode 4",
+        "title": "Bart the Murderer",
+        "file": "video/episodes/Season 03/The Simpsons - S03E04.mp4",
+        "poster": "images/poster-s3-e4.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 40",
+        "seasonEpNum": "Season 3 - Episode 5",
+        "title": "Homer Defined",
+        "file": "video/episodes/Season 03/The Simpsons - S03E05.mp4",
+        "poster": "images/poster-s3-e5.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 41",
+        "seasonEpNum": "Season 3 - Episode 6",
+        "title": "Like Father, Like Clown",
+        "file": "video/episodes/Season 03/The Simpsons - S03E06.mp4",
+        "poster": "images/poster-s3-e6.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 42",
+        "seasonEpNum": "Season 3 - Episode 7",
+        "title": "Treehouse of Horror II",
+        "file": "video/episodes/Season 03/The Simpsons - S03E07.mp4",
+        "poster": "images/poster-s3-e7.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 43",
+        "seasonEpNum": "Season 3 - Episode 8",
+        "title": "Lisa's Pony",
+        "file": "video/episodes/Season 03/The Simpsons - S03E08.mp4",
+        "poster": "images/poster-s3-e8.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 44",
+        "seasonEpNum": "Season 3 - Episode 9",
+        "title": "Saturdays of Thunder",
+        "file": "video/episodes/Season 03/The Simpsons - S03E09.mp4",
+        "poster": "images/poster-s3-e9.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 45",
+        "seasonEpNum": "Season 3 - Episode 10",
+        "title": "Flaming Moe's",
+        "file": "video/episodes/Season 03/The Simpsons - S03E10.mp4",
+        "poster": "images/poster-s3-e10.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 46",
+        "seasonEpNum": "Season 3 - Episode 11",
+        "title": "Burns Verkaufen der Kraftwerk",
+        "file": "video/episodes/Season 03/The Simpsons - S03E11.mp4",
+        "poster": "images/poster-s3-e11.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 47",
+        "seasonEpNum": "Season 2 - Episode 12",
+        "title": "I Married Marge",
+        "file": "video/episodes/Season 03/The Simpsons - S03E12.mp4",
+        "poster": "images/poster-s3-e12.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 48",
+        "seasonEpNum": "Season 3 - Episode 13",
+        "title": "Radio Bart",
+        "file": "video/episodes/Season 03/The Simpsons - S03E13.mp4",
+        "poster": "images/poster-s3-e13.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 49",
+        "seasonEpNum": "Season 3 - Episode 14",
+        "title": "Lisa the Greek",
+        "file": "video/episodes/Season 03/The Simpsons - S03E14.mp4",
+        "poster": "images/poster-s3-e14.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 50",
+        "seasonEpNum": "Season 3 - Episode 15",
+        "title": "Homer Alone",
+        "file": "video/episodes/Season 03/The Simpsons - S03E15.mp4",
+        "poster": "images/poster-s3-e15.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 51",
+        "seasonEpNum": "Season 3 - Episode 16",
+        "title": "Bart the Lover",
+        "file": "video/episodes/Season 03/The Simpsons - S03E16.mp4",
+        "poster": "images/poster-s3-e16.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 52",
+        "seasonEpNum": "Season 3 - Episode 17",
+        "title": "Homer at the Bat",
+        "file": "video/episodes/Season 03/The Simpsons - S03E17.mp4",
+        "poster": "images/poster-s3-e17.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 53",
+        "seasonEpNum": "Season 3 - Episode 18",
+        "title": "Separate Vocations",
+        "file": "video/episodes/Season 03/The Simpsons - S03E18.mp4",
+        "poster": "images/poster-s3-e18.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 54",
+        "seasonEpNum": "Season 3 - Episode 19",
+        "title": "Dog of Death",
+        "file": "video/episodes/Season 03/The Simpsons - S03E19.mp4",
+        "poster": "images/poster-s3-e19.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 55",
+        "seasonEpNum": "Season 3 - Episode 20",
+        "title": "Colonel Homer",
+        "file": "video/episodes/Season 03/The Simpsons - S03E20.mp4",
+        "poster": "images/poster-s3-e20.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 56",
+        "seasonEpNum": "Season 3 - Episode 21",
+        "title": "Black Widower",
+        "file": "video/episodes/Season 03/The Simpsons - S03E21.mp4",
+        "poster": "images/poster-s3-e21.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 57",
+        "seasonEpNum": "Season 3 - Episode 22",
+        "title": "The Otto Show",
+        "file": "video/episodes/Season 03/The Simpsons - S03E22.mp4",
+        "poster": "images/poster-s3-e22.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 58",
+        "seasonEpNum": "Season 3 - Episode 23",
+        "title": "Bart's Friend Falls in Love",
+        "file": "video/episodes/Season 03/The Simpsons - S03E23.mp4",
+        "poster": "images/poster-s3-e23.jpg"
+    },
+    {
+        "seasonNum": 3,
+        "episodeNum": "Episode 59",
+        "seasonEpNum": "Season 3 - Episode 24",
+        "title": "Brother, Can You Spare Two Dimes?",
+        "file": "video/episodes/Season 03/The Simpsons - S03E24.mp4",
+        "poster": "images/poster-s3-e24.jpg"
+    }
+]

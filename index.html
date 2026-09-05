@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <title>The Simpsons</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!-- Bootsrap  icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <script type="module" crossorigin src="./assets/index-FksXI-wl.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Dw7kdOKo.css">
+  </head>
+
+
+
+  <body class="w-screen overflow-hidden bg-[url(public/images/clouds-banner-001.jpg)] bg-no-repeat bg-cover">
+
+    <!-- Nav bar -->
+    <nav class="z-50 w-screen h-[100px] flex justify-between items-center side-pad">
+
+      <!-- Logo -->
+      <img src="./assets/simpsons-logo-001-CVrbj2Oi.png" class="h-[80px] lg:h-full">
+      
+      <!-- Random BTN & Search BTN -->
+      <div class="flex items-center gap-2 md:gap-10">
+
+        <a id="rand-btn" class="btn gap-4 w-[70px] lg:w-fit cursor-pointer flex justify-center items-center">
+          <p class="hidden lg:block">Random Episode</p>
+          <i class="bi bi-shuffle text-2xl"></i>
+        </a>
+
+        <i id="search-btn" class="bi bi-search text-3xl md:text-3xl border-2 border-[#231f20] bg-white hover:bg-neutral-200 trans-col py-3 px-4 rounded-4xl cursor-pointer"></i>
+      
+      </div>
+
+    </nav>
+
+
+
+    <!-- Random episode pop up (Starts hidden) -->
+    <div id="random-holder" class="absolute hidden flex-col lg:flex-row md:justify-center gap-6 w-screen lg:mt-10 z-40 h-[80vh]">
+      
+      <!-- Holds the random results -->
+      <div id="random-ep-display" class="w-screen px-8 lg:w-[50vw] overflow-scroll hide-scroll-bar order-last lg:order-first"></div>
+
+      <!-- Close BTN -->
+      <div class="flex justify-center">
+        <i id="random-ep-display-x" class="bi bi-x-circle-fill text-6xl text-[#231f20] cursor-pointer hover:text-neutral-500 trans-col order-first lg:order-last"></i>
+      </div>
+
+    </div>
+    
+
+
+    <!-- Search bar pop up (Starts hidden) -->
+    <div id="search-holder" class="absolute top-0 hidden flex-col gap-6 w-screen mt-24 z-40">
+      
+      <div class="flex gap-3 justify-center items-center">
+
+        <!-- Search bar -->
+        <form id="form" class="flex gap-1 flex-col lg:flex-row w-[50vw]">
+          <input id="form-search-bar" class="bg-white w-full h-[65px] border-2 border-[#231f20] text-xl pl-6 rounded-xl" type="text" placeholder="Episode name...">
+          <input class="bg-white w-full lg:w-[20vw] h-[65px] border-2 border-[#231f20] text-xl rounded-xl hover:bg-neutral-200 cursor-pointer trans-col" type="submit" value="Search">
+        </form>
+      
+        <!-- Close BTN -->
+        <div class="flex justify-center">
+          <i id="search-display-x" class="bi bi-x-circle-fill text-6xl text-[#231f20] cursor-pointer hover:text-neutral-500 trans-col"></i>
+        </div>
+
+      </div>
+
+      <!-- Holds the search results -->
+      <div id="search-display" class="w-screen h-[80vh] mx-auto px-8 lg:w-[50vw] overflow-scroll hide-scroll-bar"></div>
+      
+      
+    </div>
+
+
+
+
+    <!-- Main content -->
+    <div id="main-block" class="-mt-3 h-[90vh] flex flex-col lg:flex-row gap-3 items-center justify-center side-pad">
+
+      <!-- Seasons -->
+      <div class="hide-scroll-bar bg-white mt-2 lg:mt-6 w-[90vw] lg:w-[20vw] h-[115px] lg:h-[87vh] flex lg:flex-col items-center lg:rounded-tl-4xl lg:rounded-bl-4xl overflow-scroll">
+        <a href="#" id="season-01" class="season-button season-text">Season 01</a>
+        <a href="#" id="season-02" class="season-button season-text">Season 02</a>
+        <a href="#" id="season-03" class="season-button season-text">Season 03</a>
+        <a href="#" id="season-04" class="season-button season-text">Season 04</a>
+        <a href="#" id="season-05" class="season-button season-text">Season 05</a>
+        <a href="#" id="season-06" class="season-button season-text">Season 06</a>
+        <a href="#" id="season-07" class="season-button season-text">Season 07</a>
+        <a href="#" id="season-08" class="season-button season-text">Season 08</a>
+        <a href="#" id="season-09" class="season-button season-text">Season 09</a>
+        <a href="#" id="season-10" class="season-button season-text">Season 10</a>
+        <a href="#" id="season-11" class="season-button season-text">Season 11</a>
+        <a href="#" id="season-12" class="season-button season-text">Season 12</a>
+        <a href="#" id="season-13" class="season-button season-text">Season 13</a>
+        <a href="#" id="season-14" class="season-button season-text">Season 14</a>
+        <a href="#" id="season-15" class="season-button season-text">Season 15</a>
+        <a href="#" id="season-16" class="season-button season-text">Season 16</a>
+        <a href="#" id="season-17" class="season-button season-text">Season 17</a>
+        <a href="#" id="season-18" class="season-button season-text">Season 18</a>
+        <a href="#" id="season-19" class="season-button season-text">Season 19</a>
+        <a href="#" id="season-20" class="season-button season-text">Season 20</a>
+        <a href="#" id="season-21" class="season-button season-text">Season 21</a>
+        <a href="#" id="season-22" class="season-button season-text">Season 22</a>
+        <a href="#" id="season-23" class="season-button season-text">Season 23</a>
+        <a href="#" id="season-24" class="season-button season-text">Season 24</a>
+        <a href="#" id="season-25" class="season-button season-text">Season 25</a>
+        <a href="#" id="season-26" class="season-button season-text">Season 26</a>
+        <a href="#" id="season-27" class="season-button season-text">Season 27</a>
+        <a href="#" id="season-28" class="season-button season-text">Season 28</a>
+        <a href="#" id="season-29" class="season-button season-text">Season 29</a>
+        <a href="#" id="season-30" class="season-button season-text">Season 30</a>
+        <a href="#" id="season-31" class="season-button season-text">Season 31</a>
+        <a href="#" id="season-32" class="season-button season-text">Season 32</a>
+        <a href="#" id="season-33" class="season-button season-text">Season 33</a>
+        <a href="#" id="season-34" class="season-button season-text">Season 34</a>
+        <a href="#" id="season-35" class="season-button season-text">Season 35</a>
+        <a href="#" id="season-36" class="season-button season-text">Season 36</a>
+        <a href="#" id="season-movie" class="season-button season-text">Movies & Specials</a>
+      </div>
+
+      <!-- Episodes holder -->
+      <div id="episode-container" class="pb-26 md:pb-0 hide-scroll-bar w-[90vw] lg:mt-6 lg:w-[80vw] h-[87vh] flex flex-col gap-3 overflow-scroll"></div>
+
+    </div>
+    
+
+
+
+  </body>
+
+</html>

@@ -1,0 +1,106 @@
+[
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 1",
+        "seasonEpNum": "Season 1 - Episode 1",
+        "title": "Simpsons Roasting on an Open Fire",
+        "file": "video/episodes/Season 01/The Simpsons - S01E01.mp4",
+        "poster": "images/poster-s1-e1.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 2",
+        "seasonEpNum": "Season 1 - Episode 2",
+        "title": "Bart the Genius",
+        "file": "video/episodes/Season 01/The Simpsons - S01E02.mp4",
+        "poster": "images/poster-s1-e2.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 3",
+        "seasonEpNum": "Season 1 - Episode 3",
+        "title": "Homer's Odyssey",
+        "file": "video/episodes/Season 01/The Simpsons - S01E03.mp4",
+        "poster": "images/poster-s1-e3.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 4",
+        "seasonEpNum": "Season 1 - Episode 4",
+        "title": "There's No Disgrace Like Home",
+        "file": "video/episodes/Season 01/The Simpsons - S01E04.mp4",
+        "poster": "images/poster-s1-e4.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 5",
+        "seasonEpNum": "Season 1 - Episode 5",
+        "title": "Bart the General",
+        "file": "video/episodes/Season 01/The Simpsons - S01E05.mp4",
+        "poster": "images/poster-s1-e5.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 6",
+        "seasonEpNum": "Season 1 - Episode 6",
+        "title": "Moaning Lisa",
+        "file": "video/episodes/Season 01/The Simpsons - S01E06.mp4",
+        "poster": "images/poster-s1-e6.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 7",
+        "seasonEpNum": "Season 1 - Episode 7",
+        "title": "The Call of the Simpsons",
+        "file": "video/episodes/Season 01/The Simpsons - S01E07.mp4",
+        "poster": "images/poster-s1-e7.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 8",
+        "seasonEpNum": "Season 1 - Episode 8",
+        "title": "The Telltale Head",
+        "file": "video/episodes/Season 01/The Simpsons - S01E08.mp4",
+        "poster": "images/poster-s1-e8.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 9",
+        "seasonEpNum": "Season 1 - Episode 9",
+        "title": "Life on the Fast Lane",
+        "file": "video/episodes/Season 01/The Simpsons - S01E09.mp4",
+        "poster": "images/poster-s1-e9.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 10",
+        "seasonEpNum": "Season 1 - Episode 10",
+        "title": "Homer's Night Out",
+        "file": "video/episodes/Season 01/The Simpsons - S01E10.mp4",
+        "poster": "images/poster-s1-e10.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 11",
+        "seasonEpNum": "Season 1 - Episode 11",
+        "title": "The Crepes of Wrath",
+        "file": "video/episodes/Season 01/The Simpsons - S01E11.mp4",
+        "poster": "images/poster-s1-e11.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 12",
+        "seasonEpNum": "Season 1 - Episode 12",
+        "title": "Krusty Gets Busted",
+        "file": "video/episodes/Season 01/The Simpsons - S01E12.mp4",
+        "poster": "images/poster-s1-e12.jpg"
+    },
+    {
+        "seasonNum": 1,
+        "episodeNum": "Episode 13",
+        "seasonEpNum": "Season 1 - Episode 13",
+        "title": "Some Enchanted Evening",
+        "file": "video/episodes/Season 01/The Simpsons - S01E13.mp4",
+        "poster": "images/poster-s1-e13.jpg"
+    }
+]

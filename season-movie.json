@@ -1,0 +1,50 @@
+[
+    {
+        "seasonNum": 37,
+        "episodeNum": "Movie",
+        "seasonEpNum": "2007",
+        "title": "The Simpsons Movie",
+        "file": "video/episodes/Movies and Specials/The Simpsons Movie (2007).mp4",
+        "poster": "images/poster-movie-001.jpg"
+    },
+    {
+        "seasonNum": 37,
+        "episodeNum": "Short",
+        "seasonEpNum": "2023",
+        "title": "Maggie Simpson in Rogue Not Quite One ",
+        "file": "video/episodes/Movies and Specials/The Simpsons (1989) - Maggie.mp4",
+        "poster": "images/poster-movie-002.jpg"
+    },
+    {
+        "seasonNum": 37,
+        "episodeNum": "Short",
+        "seasonEpNum": "2024",
+        "title": "May The 12th Be With You",
+        "file": "video/episodes/Movies and Specials/The Simpsons (1989) - May12.mp4",
+        "poster": "images/poster-movie-003.jpg"
+    },
+    {
+        "seasonNum": 37,
+        "episodeNum": "Episode 778 / 779",
+        "seasonEpNum": "Season 36 - Disney+ Exclusive",
+        "title": "O C'mon All Ye Faithful",
+        "file": "video/episodes/Movies and Specials/The Simpsons - Special-001.mp4",
+        "poster": "images/poster-exlusive-001.jpg"
+    },
+    {
+        "seasonNum": 37,
+        "episodeNum": "Episode 782",
+        "seasonEpNum": "Season 36 - Disney+ Exclusive",
+        "title": "The Past and the Furious",
+        "file": "video/episodes/Movies and Specials/The Simpsons - Special-002.mp4",
+        "poster": "images/poster-exlusive-002.jpg"
+    },
+    {
+        "seasonNum": 37,
+        "episodeNum": "Episode 786",
+        "seasonEpNum": "Season 36 - Disney+ Exclusive",
+        "title": "Yellow Planet",
+        "file": "video/episodes/Movies and Specials/The Simpsons - Special-003.mp4",
+        "poster": "images/poster-exlusive-003.jpg"
+    }
+]
